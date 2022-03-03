@@ -41,7 +41,33 @@ It is not recommended to use "sudo", while using Docker.
 GNU/Linux Permissions are highly customisable, and it is generally not required to have "ROOT" permission, ~~unless you know what you are doing~~.
 You can still install all the dependencies in your system [with ROOT permissions],
 but please be aware of the potential issues when doing so. The installed packages
-may conflict with the system package manager's installed packages, which can
+may conflict with the system package manager's installed packages, which can#   ᐯᏆᏞᏞᗩᏆᑎ - ᗷᝪᎢ
+
+<p align="center">
+
+  <img src="https://telegra.ph/file/185e4b57a64e7df02d436.jpg">
+
+</p>
+
+## <p align="center">DEPLOY TO HEROKU</p>
+
+<p align="center"><a href="https://telegram.dog/XTZ_HerokuBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+## Group Support:
+
+   <a href="https://t.me/MYALTW"><img src="https://img.shields.io/badge/Group%20Support-Telegram-blue" width=220px></a></p>
+
+## Stay Support ⚡
+
+❁   [LonamiWebs](https://github.com/LonamiWebs/) and [Telethon](https://github.com/LonamiWebs/Telethon)
+
+##
+
+🔰 **BIG THANKS**
+
+*   [SpEcHlDe](https://GitHub.com/SpEcHiDe/UniBorg)   DEV - Uniborg 
+
+*   DAN TERIMAKASIH KEPADA USERBOT LAINNYA
 cause trouble down the road and errors when upgrading conflicting packages.
 **You have been warned.**
 
