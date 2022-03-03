@@ -41,7 +41,10 @@ It is not recommended to use "sudo", while using Docker.
 GNU/Linux Permissions are highly customisable, and it is generally not required to have "ROOT" permission, ~~unless you know what you are doing~~.
 You can still install all the dependencies in your system [with ROOT permissions],
 but please be aware of the potential issues when doing so. The installed packages
-may conflict with the system package manager's installed packages, which can#   ᐯᏆᏞᏞᗩᏆᑎ - ᗷᝪᎢ
+may conflict with the system package manager's installed packages, which can
+
+
+#   ᐯᏆᏞᏞᗩᏆᑎ - ᗷᝪᎢ
 
 <p align="center">
 
